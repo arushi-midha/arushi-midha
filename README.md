@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Arushi Midha
-CS Undergrad | ML + Dev Enthusiast | Building things that learn and help <br/>
+### CS Undergrad | ML + Dev Enthusiast | Building things that learn and help <br/>
 <p align="center">
   <img src="./hello.gif" height="300" alt="Centered GIF"/>
 </p>
