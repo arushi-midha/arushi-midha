@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Arushi Midha
-CS Undergrad | ML + Dev Enthusiast | Building things that learn and help
-
+CS Undergrad | ML + Dev Enthusiast | Building things that learn and help <br/>
+Profile Visits: [![Visitor Count](https://profile-counter.glitch.me/arushi-midha/count.svg)]
 
 - 🔭 I’m currently working on **Android Malware Detection** via advanced ML Techniques
 - 🌱 I’m currently learning **secure model training** and system-level machine learning
@@ -58,6 +58,9 @@ CS Undergrad | ML + Dev Enthusiast | Building things that learn and help
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
 
 
+ 
+
+
 
   
   <!-- Cloud -->
@@ -65,6 +68,9 @@ CS Undergrad | ML + Dev Enthusiast | Building things that learn and help
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Netlify"/>
 </p>
+
+## Here's a cool quote
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
